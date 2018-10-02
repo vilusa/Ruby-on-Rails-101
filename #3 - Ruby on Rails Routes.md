@@ -1,5 +1,6 @@
 
  **Ruby on Rails Routes**
+ =
  
 
     config/routes.rb  #dizininden yapılandırılır
@@ -38,5 +39,5 @@ Kök route belirleyeceğimiz bir sayfanın projemizin anasayfası olması istiyo
 
  > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDMzNDQzXX0=
+eyJoaXN0b3J5IjpbLTE2MDAxMjQzOTZdfQ==
 -->
